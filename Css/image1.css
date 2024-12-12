@@ -1,0 +1,14 @@
+body {
+      margin-left: 30px;
+}
+
+table {
+      border-spacing: 10px;
+}
+
+td {
+      padding: 5px;
+      border: 1px solid;
+      border-radius: 5px;
+      box-shadow: 3px 3px 2px gray;
+}

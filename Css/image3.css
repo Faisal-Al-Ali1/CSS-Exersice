@@ -1,0 +1,24 @@
+div {
+    color: blue;
+}
+
+p a {
+    color: orange;
+}
+
+p u a {
+    color: black;
+    background-color: yellow;
+}
+
+ul a {
+    color: red;
+}
+
+ul div li {
+    color: blue;
+}
+
+span ul {
+    list-style-type: none;
+}

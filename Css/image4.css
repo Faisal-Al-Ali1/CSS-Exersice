@@ -1,0 +1,29 @@
+#second-box {
+    margin-left: 25px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.main-grid {
+    border-spacing: 4px;
+}
+
+.jhoncena-cell {
+    visibility: hidden;
+}
+
+body {
+    margin: 10px;
+    background-color: rgb(237, 237, 237);
+}
+
+td {
+    text-align: center;
+    border-radius: 3px;
+    font-weight: bold;
+    color: #485193;
+    background-color: #D3D3D5;
+    padding: 7px;
+}
